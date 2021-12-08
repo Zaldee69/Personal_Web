@@ -180,6 +180,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-content: space-around;
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
   padding: 20px;
 }
 
